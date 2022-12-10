@@ -21,6 +21,7 @@ La gran mayoría de los proyectos que he desarrollado han sido junto a mi compa�
 - [Inacapi](https://github.com/pinguin-frosch/inacapi)
 - [Google Chat Clone](https://github.com/pinguin-frosch/google-chat-clone)
 - [Universidad](https://github.com/pinguin-frosch/universidad)
+- [Minijuego 3d](https://github.com/pinguin-frosch/minijuego-3d)
 
 Tengo pensado a futuro portear [Magic Cube 5D](http://www.gravitation3d.com/magiccube5d/) para que sea posible ejecutarlo
 desde linux, pero no tengo ni idea de cómo puedo hacer algo así, estoy dispuesto
