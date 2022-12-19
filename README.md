@@ -11,11 +11,12 @@ timelapse de cómo resolví cada teseracto del 3x3 al 5x5.
 
 ### Proyectos
 La gran mayoría de los proyectos que he desarrollado han sido junto a mi compañera
-[Charlotte](https://github.com/Thekawaiicokie). Algunos de estos son:
-- [Notitas](https://github.com/Thekawaiicokie/notitas)
-- [Minijuego](https://github.com/Thekawaiicokie/Minijuego)
-- [Biblioteca](https://github.com/Thekawaiicokie/Biblioteca)
-- [Sistema bibliotecario](https://github.com/Thekawaiicokie/sistema_bibliotecario)
+[Charlotte](https://github.com/90hellbaby). Algunos de estos son:
+- [Notitas](https://github.com/90hellbaby/notitas)
+- [Tarot](https://github.com/90hellbaby/Tarot)
+- [Minijuego](https://github.com/90hellbaby/Minijuego)
+- [Biblioteca](https://github.com/90hellbaby/Biblioteca)
+- [Sistema bibliotecario](https://github.com/90hellbaby/sistema_bibliotecario)
 - [ColorJs](https://github.com/pinguin-frosch/colorJS)
 - [Arch Install Script](https://github.com/pinguin-frosch/arch-install-script)
 - [Inacapi](https://github.com/pinguin-frosch/inacapi)
