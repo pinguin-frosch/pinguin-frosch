@@ -8,22 +8,3 @@ dimensiones), si hay alguien interesado lo reto a resolverlo y registrarse en el
 de la fama, para eso visiten [Magic Cube 4d](https://superliminal.com/cube/cube.htm).
 En mi canal de [YouTube](https://www.youtube.com/@pinguinfrosch) pueden encontrar un
 timelapse de cómo resolví cada teseracto del 3x3 al 5x5.
-
-### Proyectos
-La gran mayoría de los proyectos que he desarrollado han sido junto a mi compañera
-[Charlotte](https://github.com/90hellbaby). Algunos de estos son:
-- [Notitas](https://github.com/90hellbaby/notitas)
-- [Tarot](https://github.com/90hellbaby/Tarot)
-- [Minijuego](https://github.com/90hellbaby/Minijuego)
-- [Biblioteca](https://github.com/90hellbaby/Biblioteca)
-- [Sistema bibliotecario](https://github.com/90hellbaby/sistema_bibliotecario)
-- [ColorJs](https://github.com/pinguin-frosch/colorJS)
-- [Arch Install Script](https://github.com/pinguin-frosch/arch-install-script)
-- [Inacapi](https://github.com/pinguin-frosch/inacapi)
-- [Google Chat Clone](https://github.com/pinguin-frosch/google-chat-clone)
-- [Universidad](https://github.com/pinguin-frosch/universidad)
-- [Minijuego 3d](https://github.com/pinguin-frosch/minijuego-3d)
-
-Tengo pensado a futuro portear [Magic Cube 5D](http://www.gravitation3d.com/magiccube5d/) para que sea posible ejecutarlo
-desde linux, pero no tengo ni idea de cómo puedo hacer algo así, estoy dispuesto
-a aprender para lograrlo.
